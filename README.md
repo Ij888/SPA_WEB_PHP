@@ -1,2 +1,2 @@
-# singlePg-with-PHP
-Studies in creating a single page app in vanilla PHP
+# SPA_WEB_PHP
+Studies in creating a single page app with vanilla PHP
